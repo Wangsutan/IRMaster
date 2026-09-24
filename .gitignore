@@ -1,0 +1,12 @@
+# ---- IDE / 编辑器本地配置（不入库）----
+.vscode/
+**/.idea/vcs.xml
+**/.idea/workspace.xml
+**/.idea/shelf/
+**/.idea/httpRequests/
+**/.idea/usage.statistics.xml
+**/.idea/tasks.xml
+
+# ---- 操作系统 ----
+.DS_Store
+Thumbs.db
